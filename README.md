@@ -3,4 +3,4 @@
 Convolutional Network    这篇论文里已经放弃与摄像头融合。在2017年10月，加入毫米波雷达融合  
 3.https://arxiv.org/abs/1711.06396  VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
 4.YOLOv3: An Incremental Improvement    https://github.com/xiaochus/YOLOv3  
-
+5.https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf 
