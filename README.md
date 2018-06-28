@@ -9,3 +9,4 @@ Convolutional Network    这篇论文里已经放弃与摄像头融合。在2017
 8.https://arxiv.org/pdf/1512.00567.pdf googlenet-RethinkingtheInceptionArchitectureforComputerVision  
 9.http://arxiv.org/abs/1602.07261  googlenet-Inception-v4,Inception-ResNetand theImpactofResidualConnectionsonLearning  
 
+
