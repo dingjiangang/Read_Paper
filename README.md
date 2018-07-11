@@ -8,7 +8,8 @@ Convolutional Network    这篇论文里已经放弃与摄像头融合。在2017
 7.https://arxiv.org/pdf/1502.03167.pdf  googlenet-Inception-v2-Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift  https://github.com/tensorflow/models/tree/master/research/deeplab  
 8.https://arxiv.org/pdf/1512.00567.pdf  googlenet-Inception-v3-Rethinking the Inception Architecture for Computer Vision   https://github.com/tensorflow/models/tree/master/research/inception  
 9.http://arxiv.org/abs/1602.07261  googlenet-Inception-v4-Inception-ResNet and the Impact of Residual Connections on Learning  https://github.com/tensorflow/models/tree/master/research/slim  
-10.http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf       https://github.com/kratzert/finetune_alexnet_with_tensorflow  微调AlexNet以适应任意数据集  
+10.http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf       https://github.com/kratzert/finetune_alexnet_with_tensorflow  微调AlexNet以适应任意数据集   
+11.https://github.com/machrisaa/tensorflow-vgg   vggnet
 
 
 
