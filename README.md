@@ -11,8 +11,8 @@ Convolutional Network    这篇论文里已经放弃与摄像头融合。在2017
 10.http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf       https://github.com/kratzert/finetune_alexnet_with_tensorflow  微调AlexNet以适应任意数据集   
 11.https://github.com/machrisaa/tensorflow-vgg   vggnet  
 12.https://blog.csdn.net/u012986684/article/details/77853220 标注框架  
-13.https://pjreddie.com/darknet/yolo/  yolov3+c代码
-14.https://blog.csdn.net/qq_34564612/article/details/79011049 基于2D和3D相关框架的得分 
+13.https://pjreddie.com/darknet/yolo/  yolov3+c代码   
+14.https://blog.csdn.net/qq_34564612/article/details/79011049 基于2D和3D相关框架的得分   
 15.https://arxiv.org/abs/1703.07402v1   https://github.com/nwojke/deep_sort 多目标id跟踪   
 
 
