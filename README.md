@@ -14,6 +14,7 @@ Convolutional Network    这篇论文里已经放弃与摄像头融合。在2017
 13.https://pjreddie.com/darknet/yolo/  yolov3+c代码   
 14.https://blog.csdn.net/qq_34564612/article/details/79011049 基于2D和3D相关框架的得分   
 15.https://arxiv.org/abs/1703.07402v1   https://github.com/nwojke/deep_sort 多目标id跟踪   
+16.https://arxiv.org/abs/1612.07695v2  MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving  https://github.com/MarvinTeichmann/KittiSeg  分类加语义分割  
 
 
 
