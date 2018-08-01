@@ -17,6 +17,7 @@ Convolutional Network    这篇论文里已经放弃与摄像头融合。在2017
 16.https://arxiv.org/abs/1612.07695v2  MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving  https://github.com/MarvinTeichmann/KittiSeg  分类加语义分割  
 17.http://www4.comp.polyu.edu.hk/~cslzhang/papers.htm  paperread  
 18.https://blog.csdn.net/jinzhuojun/article/details/80875264 apollo网络介绍  
+19.https://blog.csdn.net/jinzhuojun/article/details/80875264  
 
 
 
