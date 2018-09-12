@@ -19,7 +19,8 @@ Convolutional Network    这篇论文里已经放弃与摄像头融合。在2017
 18.https://blog.csdn.net/jinzhuojun/article/details/80875264 apollo网络介绍  
 19.https://blog.csdn.net/jinzhuojun/article/details/80875264  
 20.https://arxiv.org/abs/1711.05805  apollo 定位  
-21.https://blog.csdn.net/bisheng250/article/details/53672247  主要讲了kcf，此处可对照apollo的kcf     
+21.https://blog.csdn.net/bisheng250/article/details/53672247  主要讲了kcf，此处可对照apollo的kcf  
+22.https://arxiv.org/abs/1712.02294v4  https://github.com/kujason/avod  Joint 3D Proposal Generation and Object Detection from View Aggregation  
 
 
 
