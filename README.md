@@ -23,6 +23,7 @@ Convolutional Network    这篇论文里已经放弃与摄像头融合。在2017
 22.https://arxiv.org/abs/1712.02294v4  https://github.com/kujason/avod  Joint 3D Proposal Generation and Object Detection from View Aggregation  
 23.https://arxiv.org/abs/1311.2901v3  https://github.com/tetrachrome/subpixel 
 Visualizing and Understanding Convolutional Networks  
+24.https://blog.csdn.net/u013527419/article/details/53906845  
 
 
 
