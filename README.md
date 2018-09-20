@@ -24,7 +24,8 @@ Convolutional Network    这篇论文里已经放弃与摄像头融合。在2017
 23.https://arxiv.org/abs/1311.2901v3  https://github.com/tetrachrome/subpixel 
 Visualizing and Understanding Convolutional Networks  
 24.https://blog.csdn.net/u013527419/article/details/53906845  
-25.Identity Mappings in Deep Residual Networks https://github.com/tensorflow/models/tree/master/research/resnet   
+25.Identity Mappings in Deep Residual Networks https://github.com/tensorflow/models/tree/master/research/resnet  
+26.https://blog.csdn.net/yangchengtest/article/details/80732237  yolo_train  
 
 
 
