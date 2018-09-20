@@ -26,6 +26,7 @@ Visualizing and Understanding Convolutional Networks
 24.https://blog.csdn.net/u013527419/article/details/53906845  
 25.Identity Mappings in Deep Residual Networks https://github.com/tensorflow/models/tree/master/research/resnet  
 26.https://blog.csdn.net/yangchengtest/article/details/80732237  yolo_train  
+27.https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#samples 
 
 
 
