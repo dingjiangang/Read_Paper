@@ -27,7 +27,8 @@ Visualizing and Understanding Convolutional Networks
 25.Identity Mappings in Deep Residual Networks https://github.com/tensorflow/models/tree/master/research/resnet  
 26.https://blog.csdn.net/yangchengtest/article/details/80732237  yolo_train  
 27.https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#samples  
-28.https://arxiv.org/pdf/1612.00496.pdf  https://github.com/smallcorgi/3D-Deepbox 3D Bounding Box Estimation Using Deep Learning and Geometry by Fu-Hsiang Chan.  
+28.https://arxiv.org/pdf/1612.00496.pdf  https://github.com/smallcorgi/3D-Deepbox 3D Bounding Box Estimation Using Deep Learning and Geometry by Fu-Hsiang Chan.   
+29.https://arxiv.org/pdf/1711.07264v2.pdf  https://github.com/makefile/frcnn Light-Head R-CNN: In Defense of Two-Stage Object Detector  
 
 
 
