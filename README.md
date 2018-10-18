@@ -29,6 +29,7 @@ Visualizing and Understanding Convolutional Networks
 27.https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#samples  
 28.https://arxiv.org/pdf/1612.00496.pdf  https://github.com/smallcorgi/3D-Deepbox 3D Bounding Box Estimation Using Deep Learning and Geometry by Fu-Hsiang Chan.   
 29.https://arxiv.org/pdf/1711.07264v2.pdf  https://github.com/makefile/frcnn Light-Head R-CNN: In Defense of Two-Stage Object Detector  
+30.https://arxiv.org/abs/1610.02357v3  https://github.com/tensorflow/models/blob/master/research/deeplab/core/xception.py Xception: Deep Learning with Depthwise Separable Convolutions  
 
 
 
