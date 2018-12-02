@@ -31,7 +31,8 @@ Visualizing and Understanding Convolutional Networks
 29.https://arxiv.org/pdf/1711.07264v2.pdf  https://github.com/makefile/frcnn Light-Head R-CNN: In Defense of Two-Stage Object Detector  
 30.https://arxiv.org/abs/1610.02357v3  https://github.com/tensorflow/models/blob/master/research/deeplab/core/xception.py Xception: Deep Learning with Depthwise Separable Convolutions  
 31.https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247483726&idx=1&sn=9fef4cc1766ea4258749f8d40cc71a6e&chksm=fdb69cd9cac115cf4eba16081780c3b64c75e1e55a40bf2782783d5c28f00c6f143426e6f0aa&scene=21#wechat_redirect  
-32.https://deepsense.ai/region-of-interest-pooling-explained/ roi_pooling  
+32.https://deepsense.ai/region-of-interest-pooling-explained/ roi_pooling 
+33.https://blog.csdn.net/sinat_35257860/article/details/72922182  
 
 
 
