@@ -33,6 +33,11 @@ Visualizing and Understanding Convolutional Networks
 31.https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247483726&idx=1&sn=9fef4cc1766ea4258749f8d40cc71a6e&chksm=fdb69cd9cac115cf4eba16081780c3b64c75e1e55a40bf2782783d5c28f00c6f143426e6f0aa&scene=21#wechat_redirect  
 32.https://deepsense.ai/region-of-interest-pooling-explained/ roi_pooling 
 33.https://blog.csdn.net/sinat_35257860/article/details/72922182  
+34.Deep Regression Tracking with Shrinkage Loss  https://github.com/chaoma99/DSLT  
+35.Fully-Convolutional Siamese Networks for Object Tracking   
+36.High Performance Visual Tracking with Siamese Region Proposal Network  
+ 
+
 
 
 
